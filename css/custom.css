@@ -1,0 +1,148 @@
+*{
+  margin: 0;
+}
+html,body{
+  
+  margin-top: 40px;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #555;
+  
+}
+
+nav{
+
+  padding-top: 28px;
+}
+
+ul{
+  list-style-type: none;
+}
+nav a{
+  text-decoration: none;
+  line-height: 50px;
+  color: #fff;
+  margin-left: 30px;
+}
+textarea{
+  resize: vertical;
+}
+#quote{
+  margin-top: 0px;
+  color: white;
+  padding-top: 150px;
+  padding-left: 50px;
+  text-align: center
+}
+.search{
+  min-width: 180px;
+  text-align: center;
+  min-height: 50px;
+}
+.sect{
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.subsection{
+  height: 40%;
+ 
+}
+.footer{
+  background-color: #333333;
+  color: white;
+  line-height: 30px;
+}
+.footer a{
+  text-decoration: none;
+  color: lightgrey;
+}
+.foothead{
+  padding-top: 50px;
+}
+.footer a:hover{
+  color: white;
+}
+.company{
+  background-color: white;
+}
+.suscribe{
+  padding-top: 20px;
+}
+.email{
+  width: 300px;
+}
+.sectOne{
+  background-image: url('../images/chess.jpg');
+  /*opacity: 0.6;*/
+}
+.sectTwo{
+  background-image: url('../images/company.jpg');
+}
+  .body-left-job{
+    height: 100%;
+    background: linear-gradient(#E6E6E6,white);
+    padding: 40px;
+    overflow-y: auto;
+  }
+  .body-middle-job{
+    height: 100%;
+    background-color: #fcfeff;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    overflow-y: auto;
+     background: linear-gradient(lightblue,white);
+  }
+  .post-job{
+
+    border: 1px solid navy;
+    border-radius: 20px;
+    color: black;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 210px
+  }
+  .body-left-company{
+    height: 500px;
+    padding-top: 50px;
+    background: linear-gradient(#E6E6E6,white);
+  }
+  .body-middle-company{
+    height: 100%;
+    background: linear-gradient(lightblue,white,lightblue);
+    min-height: 500px;
+  }
+  .company-post{
+    height: 210px;
+    border: 1px solid navy;
+    border-radius: 20px;
+    color: black;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .logo-company{
+    padding-top: 20px;
+  }
+  .knowmore-company{
+    margin-left: 40px;
+    margin-top: 20px;
+  }
+  .seeall{
+    margin-left: 450px;
+    min-width: 150px;
+  }
+  .college-list{
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+  .body-middle{
+    background: linear-gradient(lightblue,white,lightblue);
+  }
+  .input{
+    border: 1px solid black;border-radius: 20px;
+    
+  }

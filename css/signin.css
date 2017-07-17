@@ -1,0 +1,82 @@
+
+.body{
+	background-image: url('../images/work.jpg');	
+	/*opacity: 0.6;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+		/*z-index: -99;*/
+	background-color: #E6E6E6;
+	border-bottom: 1px solid;
+	padding-bottom: 50px;
+	padding-top: 40px;
+}
+.body-college{
+	background-image: url('../images/college.jpg');
+	/*opacity: 0.6;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	/*z-index: -99;*/
+	background-color: #E6E6E6;
+	border-bottom: 1px solid;
+	/*padding-top: 50px;
+	padding-bottom: 30px;*/
+}
+.body-company{
+	background-image: url('../images/company.jpg');
+	/*opacity: 0.6;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 550px;
+	/*z-index: -99;*/
+	background-color: #E6E6E6;
+	border-bottom: 1px solid;
+}
+.middle{
+	background-color: rgba(0,0,9,0.7);
+	color: white;
+	padding-top: 40px;
+	border: 1px solid;
+	border-radius: 10px;
+}
+a{
+	text-decoration: none;
+}
+.forget{
+	text-align: right;
+	padding-right: 20px;
+}
+.buttons{
+	width: 150px;
+}
+.bottom-body-middle{
+	border-right: 1px solid;
+	height: 350px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+.bottom-body{
+	background-color: #E6E6E6;
+	height: 350px;
+}
+.bottom-body-left{
+	border-right: 1px solid;
+	height: 350px;
+	margin-top: 30px
+}
+.bottom-body-left p{
+	line-height: 20px;
+	font-size: 20px;
+}
+.bottom-body-right{
+	height: 350px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+.bottom-body-right p{
+	line-height: 20px;
+	font-size: 20px;
+}
